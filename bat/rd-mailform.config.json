@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "smtp.hostinger.com.br",
+  "port": 587,
+  "username": "contato@pousadalirahaus.com.br",
+  "password": "Dl859696",
+  "recipientEmail": "contato@pousadalirahaus.com.br"
+}
